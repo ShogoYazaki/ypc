@@ -1,0 +1,11 @@
+ja:
+   users:
+      contact_email: "通知メールアドレス"
+      jp_market_place_id: "amazon.jpマーケットプレイスID"
+      jp_markchant_id: "amazon.jpマーチャントプレイスID"
+      jp_access_key_id: "amazon.jpアクセスキーID"
+      jp_secret_key: "amazon.jpシークレットキー"
+      com_market_place_id: "comマーケットプレイスID"
+      com_markchant_id: "comマーチャントプレイスID"
+      com_access_key_id: "comアクセスキーID"
+      com_secret_key: "comシークレットキー"
