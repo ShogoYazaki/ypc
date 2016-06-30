@@ -1,6 +1,8 @@
 ja:
-   users:
-      contact_email: "通知メールアドレス"
+  activerecord:
+    attributes:
+      user:
+      contact_email: 通知メールアドレス
       jp_market_place_id: "amazon.jpマーケットプレイスID"
       jp_markchant_id: "amazon.jpマーチャントプレイスID"
       jp_access_key_id: "amazon.jpアクセスキーID"
