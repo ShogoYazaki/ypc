@@ -40,7 +40,10 @@ class UsersController < ApplicationController
   private
 
   def user_params
-    params.require(:user).permit(:email, :password,
-                                 :password_confirmation)
+    params.require(:user).permit(:contact_email, :jp_market_place_id, :jp_markchant_id, :jp_access_key_id, :jp_secret_key, :com_market_place_id,
+                                 :com_markchant_id, :com_access_key_id, :com_secret_key)
+
+
+
   end
 end
